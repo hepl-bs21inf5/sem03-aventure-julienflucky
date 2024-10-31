@@ -1,24 +1,24 @@
 body {
-    background-color: #fdf6e3;
-    color: #657b83;
-    font-family: 'Trebuchet MS', sans-serif;
-  }
-  p {
-    font-size: 20px;
-  }
-  h1 {
-    color: #268bd2
- }
-  li {
-    list-style-type:square
- }
- a {
-    font-size: 18px;
-    color: #dc322f
- }
- a:visited {
-    color: #6c71c4
- }
- a:hover {
-    text-decoration: none;
- }
+  background-color: #fdf6e3;
+  color: #657b83;
+  font-family: "Trebuchet MS", sans-serif;
+}
+p {
+  font-size: 20px;
+}
+h1 {
+  color: #268bd2;
+}
+li {
+  list-style-type: square;
+}
+a {
+  font-size: 18px;
+  color: #dc322f;
+}
+a:visited {
+  color: #6c71c4;
+}
+a:hover {
+  text-decoration: none;
+}
